@@ -1,5 +1,5 @@
 # 3DM Mod组 
-![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/badge/Discord-928102631388348477-%235865F2?logo=Discord)](https://discord.gg/TF46tu7Upw)
+![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/discord/928102631388348477?color=5865F2&label=Discord&logo=Discord)](https://discord.gg/TF46tu7Upw)
 
 ### 介绍
 
