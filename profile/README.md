@@ -1,5 +1,5 @@
 # 3DM Mod组 
-![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/badge/GitHub-GlossMod-%23181717?logo=GitHub)](https://github.com/GlossMod) [![](https://img.shields.io/badge/Discord-928102631388348477-%235865F2?logo=Discord)](https://discord.gg/TF46tu7Upw)
+![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/GitHub-GlossMod-%23181717?logo=GitHub)](https://github.com/GlossMod) [![](https://img.shields.io/badge/Discord-928102631388348477-%235865F2?logo=Discord)](https://discord.gg/TF46tu7Upw)
 
 ### 介绍
 
@@ -23,8 +23,7 @@
 
 ### 加入方式：
 
-如果您想加入我们，可以申请加入【3DM MOD组】的QQ群：[258155733](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) （仅作者加入）  
-Discord: https://discord.gg/TF46tu7Upw  
+[>>>点击加入我们<<<](https://mod.3dmgame.com/Team)
 
 > 注意：在加入之前，请确保您有已经完成并发布的原创或汉化作品
 
@@ -33,7 +32,3 @@ Discord: https://discord.gg/TF46tu7Upw
 - 至少已经完成过一个原创（或汉化）Mod
 - 制作的Mod上传到[3DM MOD站](https://mod.3dmgame.com/)
 - 3DM MOD组目前只招募【Mod原创组】和【Mod汉化组】
-
-### Discord
-
-<iframe src="https://discord.com/widget?id=928102631388348477&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
