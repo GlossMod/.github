@@ -1,5 +1,6 @@
 # 3DM Mod组 
-![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/GitHub-GlossMod-%23181717?logo=GitHub)](https://github.com/GlossMod) [![](https://img.shields.io/badge/Discord-928102631388348477-%235865F2?logo=Discord)](https://discord.gg/TF46tu7Upw)
+![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/discord/928102631388348477?logo=Discord&color=%235865F2
+)](https://discord.gg/TF46tu7Upw)
 
 ### 介绍
 
@@ -14,7 +15,7 @@
 ### 加入我们：
 
 
-招募地址：https://mod.3dmgame.com/Team
+招募帖子：https://mod.3dmgame.com/read/12  
 
 
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣，  
@@ -23,7 +24,8 @@
 
 ### 加入方式：
 
-[>>>点击加入我们<<<](https://mod.3dmgame.com/Team)
+如果您想加入我们，可以申请加入【3DM MOD组】的QQ群：[258155733](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) （仅作者加入）  
+Discord: https://discord.gg/TF46tu7Upw  
 
 > 注意：在加入之前，请确保您有已经完成并发布的原创或汉化作品
 
@@ -32,3 +34,16 @@
 - 至少已经完成过一个原创（或汉化）Mod
 - 制作的Mod上传到[3DM MOD站](https://mod.3dmgame.com/)
 - 3DM MOD组目前只招募【Mod原创组】和【Mod汉化组】
+
+### 成员作品
+- [所有作品](https://mod.3dmgame.com/Team#:~:text=46-,%E6%88%90%E5%91%98%E4%BD%9C%E5%93%81,-(2488%E4%B8%AA))
+- [【MOD++】 模组加加 - 万能模组管理器](https://mod.3dmgame.com/mod/181318)
+- [GTA5线上小助手](https://mod.3dmgame.com/mod/136979)
+- [RDR2 Native Trainer（RNT） 荒野大镖客2 线下内置修改器](https://mod.3dmgame.com/mod/147160)
+- [军火商MOD](https://mod.3dmgame.com/mod/160402)
+- [Cyber Engine Tweaks 控制台 内置 MOD管理器](https://mod.3dmgame.com/mod/172144)
+- [Dota2 Free Sets](https://mod.3dmgame.com/mod/40490)
+- [修仙聊天群](https://mod.3dmgame.com/mod/133527)
+- [CLEO Redux](https://mod.3dmgame.com/mod/180467)
+- ...
+
