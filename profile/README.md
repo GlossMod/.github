@@ -1,5 +1,5 @@
 # 3DM Mod组 
-![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/discord/928102631388348477?logo=Discord&color=%235865F2
+![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-816193901-%23EB1923?logo=Tencent%20QQ)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rQqT7WZXLr1Gje-ggMqiAJx4MVjmLPp1&authKey=9om%2B%2FIRffAQwCuu5ciw3i8FB9HnES2vdMoDd6tmGKercZmKWMj1fT6lmrO66o5dm&noverify=0&group_code=816193901) [![](https://img.shields.io/discord/928102631388348477?logo=Discord&color=%235865F2
 )](https://discord.gg/TF46tu7Upw)
 
 ### 介绍
@@ -24,7 +24,7 @@
 
 ### 加入方式：
 
-如果您想加入我们，可以申请加入【3DM MOD组】的QQ群：[258155733](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) （仅作者加入）  
+如果您想加入我们，可以申请加入【3DM MOD组】的QQ群：[816193901](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rQqT7WZXLr1Gje-ggMqiAJx4MVjmLPp1&authKey=9om%2B%2FIRffAQwCuu5ciw3i8FB9HnES2vdMoDd6tmGKercZmKWMj1fT6lmrO66o5dm&noverify=0&group_code=816193901) （仅作者加入）  
 Discord: https://discord.gg/TF46tu7Upw  
 
 > 注意：在加入之前，请确保您有已经完成并发布的原创或汉化作品
