@@ -15,7 +15,7 @@
 ### 加入我们：
 
 
-招募帖子：https://mod.3dmgame.com/read/12  
+招募地址: https://mod.3dmgame.com/Team  
 
 
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣，  
