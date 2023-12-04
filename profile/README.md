@@ -36,8 +36,8 @@ Discord: https://discord.gg/TF46tu7Upw
 
 ### 成员作品
 - [所有作品](https://mod.3dmgame.com/Team#:~:text=46-,%E6%88%90%E5%91%98%E4%BD%9C%E5%93%81,-(2488%E4%B8%AA))
+- [【GMM】Gloss Mod Manager 一款综合性的现代化游戏模组管理器](https://mod.3dmgame.com/mod/197445)
 - [【MOD++】 模组加加 - 万能模组管理器](https://mod.3dmgame.com/mod/181318)
-- [【GMM】Gloss Mod Manager 一款综合性的游戏模组管理器](https://mod.3dmgame.com/mod/197445)
 - [GTA5线上小助手](https://mod.3dmgame.com/mod/136979)
 - [RDR2 Native Trainer（RNT） 荒野大镖客2 线下内置修改器](https://mod.3dmgame.com/mod/147160)
 - [军火商MOD](https://mod.3dmgame.com/mod/160402)
