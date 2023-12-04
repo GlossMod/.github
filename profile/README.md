@@ -1,9 +1,9 @@
-# 3DM Mod组 
-![](https://img.shields.io/badge/3DM-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/3DM-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/discord/928102631388348477?color=5865F2&label=Discord&logo=Discord)](https://discord.gg/TF46tu7Upw)
+# Gloss Mod组 
+![](https://img.shields.io/badge/Gloss-Mod组-blue?logo=Cloudera) ![](https://img.shields.io/badge/Gloss-Mod%20原创组-%2300baff?logo=Cloudera) ![](https://img.shields.io/badge/Gloss-Mod%20汉化组-%23ff4903?logo=Cloudera) [![](https://img.shields.io/badge/QQ群-258155733-%23EB1923?logo=Tencent%20QQ)](https://jq.qq.com/?_wv=1027&k=5JZT8bQ) [![](https://img.shields.io/discord/928102631388348477?color=5865F2&label=Discord&logo=Discord)](https://discord.gg/TF46tu7Upw)
 
 ### 介绍
 
-3DM Mod组是由一群游戏Mod爱好者组成的社区Mod团队  
+Gloss Mod组是由一群游戏Mod爱好者组成的社区Mod团队  
 我们面向所有 有原创能力的Moder和对Mod感兴趣的Mod爱好者 发出邀请  
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣  
 那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，欢迎加入我们的3DM MOD组
@@ -19,7 +19,7 @@
 
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣，  
 那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，  
-欢迎加入我们的3DM MOD组  
+欢迎加入我们的Gloss MOD组  
 
 ### 加入方式：
 
@@ -32,7 +32,7 @@ Discord: https://discord.gg/TF46tu7Upw
 - 需要拥有独立原创（或汉化）Mod的能力
 - 至少已经完成过一个原创（或汉化）Mod
 - 制作的Mod上传到[3DM MOD站](https://mod.3dmgame.com/)
-- 3DM MOD组目前只招募【Mod原创组】和【Mod汉化组】
+- Gloss MOD组目前只招募【Mod原创组】和【Mod汉化组】
 
 ### 成员作品
 - [所有作品](https://mod.3dmgame.com/Team#:~:text=46-,%E6%88%90%E5%91%98%E4%BD%9C%E5%93%81,-(2488%E4%B8%AA))
