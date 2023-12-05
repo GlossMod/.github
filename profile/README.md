@@ -23,7 +23,7 @@ Gloss Mod组是由一群游戏Mod爱好者组成的社区Mod团队
 
 ### 加入方式：
 
-如果您想加入我们，可以申请加入【3DM MOD组】的QQ群：[816193901](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rQqT7WZXLr1Gje-ggMqiAJx4MVjmLPp1&authKey=9om%2B%2FIRffAQwCuu5ciw3i8FB9HnES2vdMoDd6tmGKercZmKWMj1fT6lmrO66o5dm&noverify=0&group_code=816193901) （仅作者加入）  
+如果您想加入我们，可以申请加入【Gloss MOD组】的QQ群：[816193901](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rQqT7WZXLr1Gje-ggMqiAJx4MVjmLPp1&authKey=9om%2B%2FIRffAQwCuu5ciw3i8FB9HnES2vdMoDd6tmGKercZmKWMj1fT6lmrO66o5dm&noverify=0&group_code=816193901) （仅作者加入）  
 Discord: https://discord.gg/TF46tu7Upw  
 
 > 注意：在加入之前，请确保您有已经完成并发布的原创或汉化作品
