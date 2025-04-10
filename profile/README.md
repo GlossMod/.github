@@ -9,13 +9,7 @@ Gloss Mod组是由一群游戏Mod爱好者组成的社区Mod团队
 那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，欢迎加入我们的3DM MOD组
 
 
-
-
 ### 加入我们：
-
-
-招募地址: https://mod.3dmgame.com/Team  
-
 
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣，  
 那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，  
@@ -25,6 +19,7 @@ Gloss Mod组是由一群游戏Mod爱好者组成的社区Mod团队
 
 如果您想加入我们，可以申请加入【Gloss MOD组】的QQ群：[816193901](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rQqT7WZXLr1Gje-ggMqiAJx4MVjmLPp1&authKey=9om%2B%2FIRffAQwCuu5ciw3i8FB9HnES2vdMoDd6tmGKercZmKWMj1fT6lmrO66o5dm&noverify=0&group_code=816193901) （仅作者加入）  
 Discord: https://discord.gg/TF46tu7Upw  
+Github: [申请格式](https://github.com/orgs/GlossMod/discussions/2)
 
 > 注意：在加入之前，请确保您有已经完成并发布的原创或汉化作品
 
