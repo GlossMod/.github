@@ -6,7 +6,7 @@
 Gloss Mod组是由一群游戏Mod爱好者组成的社区Mod团队  
 我们面向所有 有原创能力的Moder和对Mod感兴趣的Mod爱好者 发出邀请  
 如果您对Mod的制作非常感兴趣，有时间愿意来免费分享自己制作的Mod，能从中感受到乐趣  
-那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，欢迎加入我们的3DM MOD组
+那么您就已经符合我们的招募邀请了，如果您愿意跟我们一起用爱发电，欢迎加入我们的 Gloss MOD组
 
 
 ### 加入我们：
@@ -26,7 +26,7 @@ Github: [申请格式](https://github.com/orgs/GlossMod/discussions/2)
 ### 其他要求：
 - 需要拥有独立原创（或汉化）Mod的能力
 - 至少已经完成过一个原创（或汉化）Mod
-- 制作的Mod上传到[3DM MOD站](https://mod.3dmgame.com/)
+- 制作的Mod上传到[Mod客栈](https://www.glossmod.com/)
 - Gloss MOD组目前只招募【Mod原创组】和【Mod汉化组】
 
 ### 成员作品
